@@ -16,3 +16,4 @@ pip install django
 pip install pillow
 ```
 Как выглядит сайт
+![Screenshot](https://github.com/futurespice/e-store/blob/master/imd.png)
